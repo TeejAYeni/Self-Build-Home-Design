@@ -16,10 +16,19 @@ nav { padding: 10px 0 10px 0;
 
 body{
     font-family: Roboto, 'sans-serif';
-    background-color: green
+    background-image: url(https://media.architecturaldigest.com/photos/59a838a9a8a79c392f89eba2/master/w_1600%2Cc_limit/GettyImages-481686221.jpg);
+    background-color: green;
+    background-blend-mode: lighten;
+
+}
+    b
+    
+   
+
+    }
 
 
-footer {
+footer { background-color: green}
 
 }
 
