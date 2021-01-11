@@ -9,27 +9,24 @@ nav { padding: 10px 0 10px 0;
      margin-bottom: 10px;
      margin-left: 10px;
      margin-right: 10px;
-     background-color: green;
+     background-color: rgb(145, 207, 96);
 
 
 }
 
-body{
+body > nav{
     font-family: Roboto, 'sans-serif';
-    background-image: url(https://media.architecturaldigest.com/photos/59a838a9a8a79c392f89eba2/master/w_1600%2Cc_limit/GettyImages-481686221.jpg);
-    background-color: green;
+    background-image: url(../assets/img/GettyImages-SdneyOpera.jpg);
+    background-color: rgb(145, 207, 96);
     background-blend-mode: lighten;
+    background-size: cover;
 
 }
-    b
+
+ 
+footer {
     
-   
+    background-color:rgb(145, 207, 96) }
 
-    }
-
-
-footer { background-color: green}
-
-}
 
 
